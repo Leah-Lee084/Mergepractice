@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    text-shadow: 3px;
+    color: aliceblue;
+    text-size-adjust: 24dp;
+    }
+    h2{
+    /* 預留歌曲名稱顯示空間 */
+    height: 32px;
+    font-size: medium;
+    }
